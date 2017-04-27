@@ -47,7 +47,7 @@
 
 <body>
     
-    <jsp:include page="/WEB-INF/fragments/topNav.jsp"></jsp:include>
+    <jsp:include page="/WEB-INF/fragments/topNavLogIn.jsp"></jsp:include>
  
     <!-- Page Content -->
     <div class="container">
