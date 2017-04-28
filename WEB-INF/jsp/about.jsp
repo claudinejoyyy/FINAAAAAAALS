@@ -14,7 +14,6 @@
     <title>About</title>
 
     <!-- Bootstrap core CSS -->
-    
     <link href="<c:url value="/resources/vendor/bootstrap4/css/bootstrap.min.css" />" rel="stylesheet">
 
     <!-- Custom fonts for this template -->

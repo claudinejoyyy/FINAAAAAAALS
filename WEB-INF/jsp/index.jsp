@@ -43,7 +43,7 @@
         display: block;
     }
     </style>
-    
+
 </head>
 
 <body>
@@ -195,11 +195,12 @@
     <!-- /.container -->
 
     <jsp:include page="/WEB-INF/fragments/footer.jsp"></jsp:include> 
-    
+
     <!-- Bootstrap core JavaScript -->
     <script src="<c:url value="/resources/vendor/jquery/jquery.min.js" />"></script>
     <script src="<c:url value="/resources/vendor/tether/tether.min.js" />"></script>
     <script src="<c:url value="/resources/vendor/bootstrap4/js/bootstrap.min.js" />"></script>
+
 </body>
 
 </html>

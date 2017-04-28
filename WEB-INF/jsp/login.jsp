@@ -43,12 +43,6 @@
         
         </style>
     
-    <!-- Bootstrap core JavaScript -->
-        <script src="<c:url value="/resources/vendor/jquery/jquery.min.js" />"></script>
-        <script src="<c:url value="/resources/vendor/tether/tether.min.js" />"></script>
-        <script src="<c:url value="/resources/vendor/bootstrap/js/bootstrap.min.js" />"></script>
-        <script type="text/javascript" src="<c:url value="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" />"></script>
-    
 </head>
 
 <body>

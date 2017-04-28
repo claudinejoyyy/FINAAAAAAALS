@@ -21,7 +21,7 @@
           class="org.springframework.web.servlet.view.InternalResourceViewResolver"
           p:prefix="/WEB-INF/jsp/"
           p:suffix=".jsp" />
-    
+
     <mvc:resources mapping="/resources/**" location="/resources/"
 	cache-period="31556926"/>
 
